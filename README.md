@@ -1,1 +1,1 @@
-# Major-Project-file
+# deploy-to-AWS
